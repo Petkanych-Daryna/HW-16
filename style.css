@@ -1,0 +1,19 @@
+body{
+
+}
+div{
+    width: 80vw;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 10px;
+}
+.bg-box{
+    background-color: green;
+}
+.bg-box{
+    background-image:url(pole-zelen-trava-dom-derevya.webp), url(green-png-44873.png), url(lamp-png-34914.png) ,url(3F3F.webp), url(PikPng.com_png-tumblr-transparent-donut_2149612.png);
+    background-position: center, bottom,top, left, right;
+    background-size: 500px, 300px,40px, 50px, 50px;
+    background-repeat: no-repeat, repeat-x,repeat-x, repeat-y, repeat-y;
+}
